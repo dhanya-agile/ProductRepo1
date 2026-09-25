@@ -1,5 +1,5 @@
 {
-  "managerType": "Product",
+  "managerType": "product",
   "Products": [
     {
       "ProductName": "PackageAxiTesting",
