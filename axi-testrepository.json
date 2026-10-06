@@ -1,0 +1,18 @@
+{
+  "ManagerType": "test",
+  "Products": [
+    {
+      "ProductName": "SmartView",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "version 1",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-10-06T08:04:32Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "SmartView"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
